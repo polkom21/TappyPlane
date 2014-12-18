@@ -1,0 +1,131 @@
+
+elements.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+groundDirt
+  rotate: false
+  xy: 1, 815
+  size: 808, 71
+  orig: 808, 71
+  offset: 0, 0
+  index: -1
+groundGrass
+  rotate: false
+  xy: 1, 742
+  size: 808, 71
+  orig: 808, 71
+  offset: 0, 0
+  index: -1
+groundIce
+  rotate: false
+  xy: 1, 669
+  size: 808, 71
+  orig: 808, 71
+  offset: 0, 0
+  index: -1
+groundRock
+  rotate: false
+  xy: 1, 596
+  size: 808, 71
+  orig: 808, 71
+  offset: 0, 0
+  index: -1
+groundSnow
+  rotate: false
+  xy: 1, 523
+  size: 808, 71
+  orig: 808, 71
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 811, 647
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+rockDown
+  rotate: false
+  xy: 1, 282
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+rockGrass
+  rotate: false
+  xy: 1, 41
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+rockGrassDown
+  rotate: false
+  xy: 111, 282
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+rockIce
+  rotate: false
+  xy: 111, 41
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+rockIceDown
+  rotate: false
+  xy: 221, 282
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+rockSnow
+  rotate: false
+  xy: 221, 41
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+rockSnowDown
+  rotate: false
+  xy: 331, 282
+  size: 108, 239
+  orig: 108, 239
+  offset: 0, 0
+  index: -1
+puffLarge
+  rotate: false
+  xy: 811, 610
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+starBronze
+  rotate: false
+  xy: 921, 848
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+starGold
+  rotate: false
+  xy: 1, 1
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+starSilver
+  rotate: false
+  xy: 331, 242
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+puffSmall
+  rotate: false
+  xy: 441, 500
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
