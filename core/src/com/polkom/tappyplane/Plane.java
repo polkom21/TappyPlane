@@ -58,6 +58,6 @@ public class Plane {
     public void force() {
         //if(MAX_VELOCITY > body.getLinearVelocity().y) body.applyLinearImpulse(0.f, 1.5f, getPosition().x, getPosition().y, true);
         //body.applyLinearImpulse(0.f, .1f, getPosition().x, getPosition().y, true);
-        body.applyForce(0.f, 15.f, getPosition().x, getPosition().y, true);
+        if(body.getLinearVelocity().y < MAX_VELOCITY) body.applyForce(0.f, 15.f, getPosition().x, getPosition().y, true);
     }
 }

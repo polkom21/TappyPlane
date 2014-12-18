@@ -57,7 +57,7 @@ public class GameScreen extends ScreenAdapter {
     public void update(float deltaTime) {
         //float deltaTime = Gdx.graphics.getDeltaTime();
         if(!this.gameOver){
-            System.out.println("Delta: " + deltaTime);
+            //System.out.println("Delta: " + deltaTime);
             worldManager.doPhysicsStep(deltaTime);
             plane.update();
             if(plane.getPosition().y > Gdx.graphics.getHeight()) this.gameOver = true;
